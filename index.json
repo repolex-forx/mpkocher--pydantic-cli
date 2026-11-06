@@ -1,0 +1,11 @@
+{
+  "org": "mpkocher",
+  "repo": "pydantic-cli",
+  "versions": [
+    {
+      "commit": "c319c2cdbc602a4cb98f3f92c9c898c713cc166d",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:13:57.973426+00:00"
+    }
+  ]
+}
