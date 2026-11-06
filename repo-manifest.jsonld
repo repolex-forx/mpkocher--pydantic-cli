@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mpkocher/pydantic-cli/commit/c319c2cdbc602a4cb98f3f92c9c898c713cc166d",
       "git:hexsha": "c319c2cdbc602a4cb98f3f92c9c898c713cc166d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mpkocher/pydantic-cli/commit/92ecea511dbd5dd22c997bac72b272d8ecd90dc0",
