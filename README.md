@@ -36,12 +36,19 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 92ecea511dbd5dd22c997bac72b272d8ecd90dc0
+│   │   │   └── chunk-001.nq.gz
 │   │   └── c319c2cdbc602a4cb98f3f92c9c898c713cc166d
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 92ecea511dbd5dd22c997bac72b272d8ecd90dc0.nq.gz
 │   └── repolex
+│       ├── 92ecea511dbd5dd22c997bac72b272d8ecd90dc0
+│       │   └── chunk-001.nq.gz
 │       └── c319c2cdbc602a4cb98f3f92c9c898c713cc166d
 │           └── chunk-001.nq.gz
 ├── blob
+│   ├── 15226e0e79639bbbbaaaa38cdb80d19b1476973c.nq.gz
 │   ├── 1652043ca60cc7f47582b5e371d1e9d19d88f318.nq.gz
 │   ├── 1833a6a551af9b6ffbe4419e8f6de5f2cc6400b3.nq.gz
 │   ├── 1a84e0bb335ca555f13a2aae7f9521a3df9f7a13.nq.gz
@@ -95,7 +102,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 92ecea511dbd5dd22c997bac72b272d8ecd90dc0.nq.gz
 ├── filetree
+│   ├── 92ecea511dbd5dd22c997bac72b272d8ecd90dc0.nq.gz
 │   └── c319c2cdbc602a4cb98f3f92c9c898c713cc166d.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -104,7 +114,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 57 files
+17 directories, 63 files
 ```
 
 | Directory | What it contains |
@@ -125,4 +135,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [mpkocher/pydantic-cli](https://github.com/mpkocher/pydantic-cli)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
